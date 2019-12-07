@@ -9,3 +9,11 @@
 - New feature: Comment all log messages inserted by the extension
 - New feature: Uncomment all log messages inserted by the extension
 - When requested, only the log messages inserted by the extension will be commented, uncommented or deleted
+
+### 1.3.0
+
+- Multiple cursor support
+
+## 1.4.0 (tuur29)
+
+- New feature: Add styling options

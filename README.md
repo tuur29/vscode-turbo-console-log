@@ -1,3 +1,5 @@
+> ! This repo is a fork of [Turbo Console Log from Chakroun Anas](https://github.com/Chakroun-Anas/turbo-console-log). It will be removed if / once my PRs have been merged into the main repo.
+
 ## Main Functionality
 
 ---
@@ -94,28 +96,17 @@ Initial release of Turbo Console Log
 
 - Multiple cursor support
 
-## Participate
+### 1.4.0 (tuur29)
 
----
-
-You're more than welcome to participate in the development of the extension by creating pull requests and submitting issues, link of the project in github: https://github.com/Chakroun-Anas/turbo-console-log
-
-## Contact
-
----
-
-You can contact me on the following mail: chakroun.anas@outlook.com
+- New feature: Add styling options
 
 ## License
 
 ---
 
 MIT &copy; Chakroun Anas
+Edited by Tuur Lievens
 
 ---
-
-Buying me a coffe will definitely help me to keep working in this project and other open source projects <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/ChakrounAnas)
 
 **Enjoy!**
