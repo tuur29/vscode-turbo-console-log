@@ -1,9 +1,9 @@
 {
   "name": "turbo-console-log",
-  "displayName": "Turbo Console Log",
+  "displayName": "Turbo Console Log (With Styling)",
   "description": "Automating the process of writing meaningful log messages.",
-  "version": "1.3.1",
-  "publisher": "ChakrounAnas",
+  "version": "1.4.0",
+  "publisher": "tuur29",
   "engines": {
     "vscode": "^1.19.0"
   },
@@ -124,11 +124,11 @@
   },
   "license": "SEE LICENSE IN LICENSE.txt",
   "bugs": {
-    "url": "https://github.com/Chakroun-Anas/turbo-console-log/issues",
+    "url": "https://github.com/tuur29/vscode-turbo-console-log/issues",
     "email": "chakroun.anas@outlook.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Chakroun-Anas/turbo-console-log"
+    "url": "https://github.com/tuur29/vscode-turbo-console-log"
   }
 }
