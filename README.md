@@ -100,28 +100,13 @@ Initial release of Turbo Console Log
 
 - New feature: Add styling options
 
-## Participate
-
----
-
-You're more than welcome to participate in the development of the extension by creating pull requests and submitting issues, link of the project in github: https://github.com/Chakroun-Anas/turbo-console-log
-
-## Contact
-
----
-
-You can contact me on the following mail: chakroun.anas@outlook.com
-
 ## License
 
 ---
 
 MIT &copy; Chakroun Anas
+Edited by Tuur Lievens
 
 ---
-
-Buying me a coffe will definitely help me to keep working in this project and other open source projects <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/ChakrounAnas)
 
 **Enjoy!**
