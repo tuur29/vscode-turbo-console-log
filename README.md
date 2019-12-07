@@ -1,3 +1,5 @@
+> ! This repo is a fork of [Turbo Console Log from Chakroun Anas](https://github.com/Chakroun-Anas/turbo-console-log). It will be removed if / once my PRs have been merged into the main repo.
+
 ## Main Functionality
 
 ---
@@ -93,6 +95,10 @@ Initial release of Turbo Console Log
 ### 1.3.0
 
 - Multiple cursor support
+
+### 1.4.0 (tuur29)
+
+- New feature: Add styling options
 
 ## Participate
 
